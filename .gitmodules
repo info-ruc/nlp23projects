@@ -4,3 +4,4 @@
 [submodule "2020201622/src"]
 	path = 2020201622/src
 	url = https://github.com/SharlynOUO/CSCwLLM.git
+	branch = master
